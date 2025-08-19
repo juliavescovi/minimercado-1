@@ -1,0 +1,17 @@
+Objetivo e metas (para colar no template PDF)
+
+Objetivo:
+Desenvolver um sistema web estático para um minimercado utilizando somente HTML (sem CSS e sem JavaScript), aplicando a estrutura semântica de páginas (header, nav, main, footer) e publicando o resultado no GitHub Pages.
+
+Metas e atividades específicas (Aulas 1 a 5):
+1. Planejar a estrutura do site (Aula 1): definir páginas, conteúdo mínimo e navegação.
+2. Construir a estrutura básica HTML (Aula 2): DOCTYPE, <html>, <head>, <body>, cabeçalho, corpo e rodapé.
+3. Implementar links de navegação entre páginas (Aula 3): utilização de âncoras <a> e organização do menu.
+4. Inserir imagens e conteúdo descritivo (Aula 4): elementos <img>, texto de apoio e preços por categoria.
+5. Aplicar boas práticas semânticas e publicar (Aula 5): validação rápida do HTML e publicação via GitHub Pages.
+
+Critérios de aceite para a Fase 1:
+- Exibir 2 produtos em cada uma das 3 categorias com imagem, descrição e preço.
+- Exibir 2 serviços com descrição e valor.
+- Disponibilizar o site publicamente via GitHub Pages.
+- Fornecer no PDF final os links do repositório e do site publicado.
